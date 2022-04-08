@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59f9beb4-b834-477f-8390-5a0f4580c567" name="Changes" comment="Thins week work" />
+    <list default="true" id="59f9beb4-b834-477f-8390-5a0f4580c567" name="Changes" comment="Java work until now" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -246,6 +246,7 @@
       <workItem from="1649332514672" duration="330000" />
       <workItem from="1649407153553" duration="13000" />
       <workItem from="1649407733094" duration="13000" />
+      <workItem from="1649408286565" duration="412000" />
     </task>
     <task id="LOCAL-00001" summary="work 2 is done">
       <created>1648762613150</created>
@@ -324,7 +325,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649332562479</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Java work until now">
+      <created>1649408491350</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1649408491350</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -350,7 +358,8 @@
     <MESSAGE value="added .gitignore file" />
     <MESSAGE value="work 2 is done" />
     <MESSAGE value="Thins week work" />
-    <option name="LAST_COMMIT_MESSAGE" value="Thins week work" />
+    <MESSAGE value="Java work until now" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java work until now" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
