@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59f9beb4-b834-477f-8390-5a0f4580c567" name="Changes" comment="Thins week work">
-      <change beforePath="$PROJECT_DIR$/GitPracticeWithEU8/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitPracticeWithEU8/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitPracticeWithEU8/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitPracticeWithEU8/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitPracticeWithEU8/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitPracticeWithEU8/GitPracticeWithEU8.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitPracticeWithEU8/out/production/GitPracticeWithEU8/day01/TestCase01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitPracticeWithEU8/src/day01/TestCase01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitPracticeWithEU8/src/day02/TestCase02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/git_practice2/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git_practice2/src/us100/TestCase002.java" beforeDir="false" afterPath="$PROJECT_DIR$/git_practice2/src/us100/TestCase002.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -255,6 +246,7 @@
       <workItem from="1649322105605" duration="1683000" />
       <workItem from="1649323839035" duration="4410000" />
       <workItem from="1649332514672" duration="330000" />
+      <workItem from="1649407153553" duration="13000" />
     </task>
     <task id="LOCAL-00001" summary="work 2 is done">
       <created>1648762613150</created>
