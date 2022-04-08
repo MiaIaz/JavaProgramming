@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59f9beb4-b834-477f-8390-5a0f4580c567" name="Changes" comment="Thins week work">
-      <change beforePath="$PROJECT_DIR$/git_practice2/src/us100/TestCase002.java" beforeDir="false" afterPath="$PROJECT_DIR$/git_practice2/src/us100/TestCase002.java" afterDir="false" />
-    </list>
+    <list default="true" id="59f9beb4-b834-477f-8390-5a0f4580c567" name="Changes" comment="Thins week work" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -247,6 +245,7 @@
       <workItem from="1649323839035" duration="4410000" />
       <workItem from="1649332514672" duration="330000" />
       <workItem from="1649407153553" duration="13000" />
+      <workItem from="1649407733094" duration="13000" />
     </task>
     <task id="LOCAL-00001" summary="work 2 is done">
       <created>1648762613150</created>
