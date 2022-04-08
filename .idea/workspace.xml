@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59f9beb4-b834-477f-8390-5a0f4580c567" name="Changes" comment="Java work until now" />
+    <list default="true" id="59f9beb4-b834-477f-8390-5a0f4580c567" name="Changes" comment="Java work until now">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +66,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/JavaProgrammingLive/src/week04" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
@@ -246,7 +248,8 @@
       <workItem from="1649332514672" duration="330000" />
       <workItem from="1649407153553" duration="13000" />
       <workItem from="1649407733094" duration="13000" />
-      <workItem from="1649408286565" duration="412000" />
+      <workItem from="1649408286565" duration="1720000" />
+      <workItem from="1649410283043" duration="306000" />
     </task>
     <task id="LOCAL-00001" summary="work 2 is done">
       <created>1648762613150</created>
@@ -332,7 +335,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649408491350</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Java work until now">
+      <created>1649408977077</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1649408977077</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -350,6 +360,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="initial commit" />
     <MESSAGE value="work 3 is done and &#10;about to be pushed to&#10;GitHub" />
     <MESSAGE value="work 1" />
