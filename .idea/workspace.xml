@@ -1,28 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59f9beb4-b834-477f-8390-5a0f4580c567" name="Changes" comment="Java work until now">
-      <change afterPath="$PROJECT_DIR$/JavaPractice/src/project_Batch_8_18/Horoscop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaProgramming/src/day38_Inheritance/carTask/BMW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaProgramming/src/day38_Inheritance/carTask/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaProgramming/src/day38_Inheritance/carTask/Tesla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaProgramming/src/day38_Inheritance/carTask/Toyota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaProgrammingLive/src/week13/Credentials.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaProgrammingLive/src/week13/Db.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaProgrammingLive/src/week13/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaProgrammingLive/src/week13/Password.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaProgrammingLive/src/week13/PasswordTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaProgrammingLive/src/week13/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaProgrammingLive/src/week13/PersonTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaProgrammingLive/src/week13/inheritance/AudioBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaProgrammingLive/src/week13/inheritance/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaProgrammingLive/src/week13/inheritance/BookShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaProgrammingLive/src/week13/inheritance/Ebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaProgrammingLive/src/week13/note.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaPractice/JavaPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPractice/JavaPractice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/day35_Encapulation/scrumTeamTask/ScrumTeamObjects.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/day35_Encapulation/scrumTeamTask/ScrumTeamObjects.class" afterDir="false" />
+    <list default="true" id="59f9beb4-b834-477f-8390-5a0f4580c567" name="Changes" comment="day38_Inheritance--&gt;more work">
+      <change beforePath="$PROJECT_DIR$/JavaProgramming/src/day38_Inheritance/carTask/Toyota.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProgramming/src/day38_Inheritance/carTask/Toyota.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -276,7 +256,7 @@
       <workItem from="1649410283043" duration="306000" />
       <workItem from="1649509953217" duration="10971000" />
       <workItem from="1649534544786" duration="11000" />
-      <workItem from="1649664520886" duration="4027000" />
+      <workItem from="1649664520886" duration="4637000" />
     </task>
     <task id="LOCAL-00001" summary="work 2 is done">
       <created>1648762613150</created>
@@ -369,7 +349,21 @@
       <option name="project" value="LOCAL" />
       <updated>1649408977077</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="day38_Inheritance--&gt;CarTask">
+      <created>1649766971353</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1649766971353</updated>
+    </task>
+    <task id="LOCAL-00015" summary="day38_Inheritance--&gt;more work">
+      <created>1649767001981</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1649767001981</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -398,7 +392,9 @@
     <MESSAGE value="work 2 is done" />
     <MESSAGE value="Thins week work" />
     <MESSAGE value="Java work until now" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java work until now" />
+    <MESSAGE value="day38_Inheritance--&gt;CarTask" />
+    <MESSAGE value="day38_Inheritance--&gt;more work" />
+    <option name="LAST_COMMIT_MESSAGE" value="day38_Inheritance--&gt;more work" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
