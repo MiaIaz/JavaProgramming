@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59f9beb4-b834-477f-8390-5a0f4580c567" name="Changes" comment="day38_Inheritance--&gt;more work">
-      <change beforePath="$PROJECT_DIR$/JavaProgramming/src/day38_Inheritance/carTask/Toyota.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProgramming/src/day38_Inheritance/carTask/Toyota.java" afterDir="false" />
+    <list default="true" id="59f9beb4-b834-477f-8390-5a0f4580c567" name="Changes" comment="day38_Inheritance--&gt;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProgramming/src/day38_Inheritance/carTask/ParkingLot.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProgramming/src/day38_Inheritance/carTask/ParkingLot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -256,7 +257,7 @@
       <workItem from="1649410283043" duration="306000" />
       <workItem from="1649509953217" duration="10971000" />
       <workItem from="1649534544786" duration="11000" />
-      <workItem from="1649664520886" duration="4637000" />
+      <workItem from="1649664520886" duration="6673000" />
     </task>
     <task id="LOCAL-00001" summary="work 2 is done">
       <created>1648762613150</created>
@@ -363,7 +364,35 @@
       <option name="project" value="LOCAL" />
       <updated>1649767001981</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="day38_Inheritance--&gt;ToyotaClass">
+      <created>1649767568972</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1649767568972</updated>
+    </task>
+    <task id="LOCAL-00017" summary="day38_Inheritance--&gt;">
+      <created>1649767719866</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1649767719866</updated>
+    </task>
+    <task id="LOCAL-00018" summary="day38_Inheritance--&gt;">
+      <created>1649767841233</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1649767841233</updated>
+    </task>
+    <task id="LOCAL-00019" summary="day38_Inheritance--&gt;">
+      <created>1649767893667</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1649767893667</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -394,7 +423,9 @@
     <MESSAGE value="Java work until now" />
     <MESSAGE value="day38_Inheritance--&gt;CarTask" />
     <MESSAGE value="day38_Inheritance--&gt;more work" />
-    <option name="LAST_COMMIT_MESSAGE" value="day38_Inheritance--&gt;more work" />
+    <MESSAGE value="day38_Inheritance--&gt;ToyotaClass" />
+    <MESSAGE value="day38_Inheritance--&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="day38_Inheritance--&gt;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
