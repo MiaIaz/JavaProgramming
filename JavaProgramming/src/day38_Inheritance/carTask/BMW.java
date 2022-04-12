@@ -7,5 +7,8 @@ public class BMW extends Car{
         super("BMW", model, colour, price, year, miles);
     }
 
+    public void racing(){
+        System.out.println(brand+" "+model +" is racing");
+    }
 
 }
