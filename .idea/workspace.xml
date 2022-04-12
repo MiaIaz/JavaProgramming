@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="59f9beb4-b834-477f-8390-5a0f4580c567" name="Changes" comment="day38_Inheritance--&gt;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaProgramming/src/day38_Inheritance/carTask/ParkingLot.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProgramming/src/day38_Inheritance/carTask/ParkingLot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaProgramming/src/day38_Inheritance/carTask/Toyota.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProgramming/src/day38_Inheritance/carTask/Toyota.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProgramming/src/day38_Inheritance/carTask/Tesla.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProgramming/src/day38_Inheritance/carTask/Tesla.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -258,7 +257,7 @@
       <workItem from="1649410283043" duration="306000" />
       <workItem from="1649509953217" duration="10971000" />
       <workItem from="1649534544786" duration="11000" />
-      <workItem from="1649664520886" duration="8109000" />
+      <workItem from="1649664520886" duration="9226000" />
     </task>
     <task id="LOCAL-00001" summary="work 2 is done">
       <created>1648762613150</created>
@@ -400,7 +399,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649769646910</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="day38_Inheritance--&gt;">
+      <created>1649773003191</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1649773003191</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
