@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59f9beb4-b834-477f-8390-5a0f4580c567" name="Changes" comment="day39_Recap--&gt;MethodOverloading">
-      <change beforePath="$PROJECT_DIR$/JavaProgramming/src/day39_Recap/shapeTask/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProgramming/src/day39_Recap/shapeTask/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaProgramming/src/day39_Recap/shapeTask/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProgramming/src/day39_Recap/shapeTask/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaProgramming/src/day39_Recap/shapeTask/ShapeObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProgramming/src/day39_Recap/shapeTask/ShapeObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaProgramming/src/day39_Recap/cydeoTask/Cydeo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaProgramming/src/day39_Recap/cydeoTask/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaProgramming/src/day39_Recap/cydeoTask/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaProgramming/src/day39_Recap/cydeoTask/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaProgramming/src/day39_Recap/cydeoTask/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaProgramming/src/day39_Recap/cydeoTask/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaProgramming/src/day39_Recap/cydeoTask/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/day39_Recap/shapeTask/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgramming/day39_Recap/shapeTask/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/day39_Recap/shapeTask/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgramming/day39_Recap/shapeTask/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/day39_Recap/shapeTask/ShapeObjects.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgramming/day39_Recap/shapeTask/ShapeObjects.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +96,7 @@
       <recent name="C:\Users\sorin\IdeaProjects\Git_Practice\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ShapeObjects">
+  <component name="RunManager" selected="Application.Cydeo">
     <configuration name="BookShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week13.inheritance.BookShop" />
       <module name="JavaProgrammingLive" />
@@ -108,6 +116,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day34_GarbageCollection_AccessModifiers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cydeo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day39_Recap.cydeoTask.Cydeo" />
+      <module name="JavaProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day39_Recap.cydeoTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,19 +188,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week13.PersonTask" />
-      <module name="JavaProgrammingLive" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ShapeObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day39_Recap.shapeTask.ShapeObjects" />
       <module name="JavaProgramming" />
@@ -208,11 +216,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Cydeo" />
         <item itemvalue="Application.ShapeObjects" />
         <item itemvalue="Application.ParkingLot" />
         <item itemvalue="Application.BookShop" />
         <item itemvalue="Application.PasswordTest" />
-        <item itemvalue="Application.PersonTask" />
       </list>
     </recent_temporary>
   </component>
@@ -260,7 +268,7 @@
       <workItem from="1649509953217" duration="10971000" />
       <workItem from="1649534544786" duration="11000" />
       <workItem from="1649664520886" duration="11945000" />
-      <workItem from="1649839916745" duration="5057000" />
+      <workItem from="1649839916745" duration="11131000" />
     </task>
     <task id="LOCAL-00001" summary="work 2 is done">
       <created>1648762613150</created>
@@ -493,7 +501,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649844706428</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="day39_Recap--&gt;MethodOverloading">
+      <created>1649845401296</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1649845401296</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
