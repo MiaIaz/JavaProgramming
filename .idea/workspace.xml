@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59f9beb4-b834-477f-8390-5a0f4580c567" name="Changes" comment="day39_Recap--&gt;MethodOverloading">
-      <change afterPath="$PROJECT_DIR$/JavaProgramming/src/day39_Recap/shapeTask/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaProgramming/src/day39_Recap/shapeTask/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProgramming/src/day39_Recap/shapeTask/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProgramming/src/day39_Recap/shapeTask/Shape.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +77,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -258,6 +261,7 @@
       <workItem from="1649509953217" duration="10971000" />
       <workItem from="1649534544786" duration="11000" />
       <workItem from="1649664520886" duration="11945000" />
+      <workItem from="1649839916745" duration="714000" />
     </task>
     <task id="LOCAL-00001" summary="work 2 is done">
       <created>1648762613150</created>
@@ -447,6 +451,9 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/JavaProgramming.OscarWorkEU8" />
+    </ignored-roots>
     <MESSAGE value="initial commit" />
     <MESSAGE value="work 3 is done and &#10;about to be pushed to&#10;GitHub" />
     <MESSAGE value="work 1" />
