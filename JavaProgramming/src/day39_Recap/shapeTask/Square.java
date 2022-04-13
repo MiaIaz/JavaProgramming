@@ -21,9 +21,22 @@ public class Square extends Shape {
         setSide(side);
     }
 
+    @Override
+    public double area() {
+        return super.area();
+    }
 
+    @Override
+    public double perimeter() {
+        return super.perimeter();
+    }
 
-
-
-
+    @Override
+    public String toString() {
+        return "Square{" +
+                "side=" + side +
+                "area='" + area() + '\'' +
+                "perimeter='" + perimeter() + '\'' +
+                '}';
+    }
 }
