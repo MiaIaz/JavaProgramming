@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59f9beb4-b834-477f-8390-5a0f4580c567" name="Changes" comment="day39_Recap--&gt;MethodOverloading">
-      <change afterPath="$PROJECT_DIR$/JavaProgramming/src/day40_ProtectedAccessModifier_FinalKeyword/EncapsulationReview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaProgramming/src/day40_ProtectedAccessModifier_FinalKeyword/ProtectedAccessModifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaProgramming/src/utilities/AccessModifier_Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaProgramming/src/utilities/AccessModifier_Test4.java" afterDir="false" />
+    <list default="true" id="59f9beb4-b834-477f-8390-5a0f4580c567" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/JavaProgramming/src/day40_ProtectedAccessModifier_FinalKeyword/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaProgramming/src/day40_ProtectedAccessModifier_FinalKeyword/FinalVariable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +40,6 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/JavaProgramming/src/utilities/MathUtility.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/JavaPractice/src/practiceByHalim/TV.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/JavaPractice/src/project_Batch_8_18/Short_TermFinancialDevelopment.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/JavaProgrammingLive/src/week13/Db.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/JavaProgramming/src/utilities/ArraysUtility.java" root0="SKIP_INSPECTION" />
@@ -267,7 +264,7 @@
       <workItem from="1649857965848" duration="6594000" />
       <workItem from="1649884926052" duration="43000" />
       <workItem from="1649885036095" duration="7000" />
-      <workItem from="1649926801873" duration="4853000" />
+      <workItem from="1649926801873" duration="7288000" />
     </task>
     <task id="LOCAL-00001" summary="work 2 is done">
       <created>1648762613150</created>
@@ -514,7 +511,21 @@
       <option name="project" value="LOCAL" />
       <updated>1649851695027</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="day40_Recap--&gt;Protected Access Modifier">
+      <created>1649964203795</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1649964203795</updated>
+    </task>
+    <task id="LOCAL-00037" summary="day40_Recap--&gt;Protected Access Modifier">
+      <created>1649964226155</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1649964226155</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -551,7 +562,8 @@
     <MESSAGE value="day38_Inheritance--&gt;ToyotaClass" />
     <MESSAGE value="day38_Inheritance--&gt;" />
     <MESSAGE value="day39_Recap--&gt;MethodOverloading" />
-    <option name="LAST_COMMIT_MESSAGE" value="day39_Recap--&gt;MethodOverloading" />
+    <MESSAGE value="day40_Recap--&gt;Protected Access Modifier" />
+    <option name="LAST_COMMIT_MESSAGE" value="day40_Recap--&gt;Protected Access Modifier" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
