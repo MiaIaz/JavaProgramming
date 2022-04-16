@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59f9beb4-b834-477f-8390-5a0f4580c567" name="Changes" comment="day40_Recap--&gt;Protected Access Modifier" />
+    <list default="true" id="59f9beb4-b834-477f-8390-5a0f4580c567" name="Changes" comment="day40_Recap--&gt;Protected Access Modifier">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +63,6 @@
   </component>
   <component name="ProjectViewState">
     <option name="foldersAlwaysOnTop" value="false" />
-    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -84,7 +85,7 @@
       <recent name="C:\Users\sorin\IdeaProjects\Git_Practice\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.Constructor_vs_StaticBlock">
     <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test2.B" />
       <module name="JavaPractice" />
@@ -260,7 +261,7 @@
       <workItem from="1649857965848" duration="6594000" />
       <workItem from="1649884926052" duration="43000" />
       <workItem from="1649885036095" duration="7000" />
-      <workItem from="1649926801873" duration="8256000" />
+      <workItem from="1649926801873" duration="11217000" />
     </task>
     <task id="LOCAL-00001" summary="work 2 is done">
       <created>1648762613150</created>
@@ -528,7 +529,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649971065944</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="day40_Recap--&gt;Protected Access Modifier">
+      <created>1649971531802</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1649971531802</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
