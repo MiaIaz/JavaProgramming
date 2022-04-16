@@ -2,19 +2,21 @@ package week14.brower_PagesInheritance;
 
 public class CartPage extends AmazonHomePage{
 
-
     public String buyerInfo;
-
-    public CartPage(String name) {
+    public CartPage(String name, String buyerInfo) {
         super(name);
-        this.buyerInfo = buyerInfo;
-     }
+        this.buyerInfo=buyerInfo;
+    }
 
-     public void fillInfo(){
-         System.out.println("Filling the necessary fields with: " + buyerInfo);
-     }
+    public void fillInfo(){
+        System.out.println("Filling the necessary fields with :"+buyerInfo);
+    }
 
-     public void payFor(long cardNumber){
-         System.out.println("Paying with credit card: "+ cardNumber);
-     }
+    public void payFor(long cardNumber){
+        System.out.println("Paying with credit card : "+cardNumber);
+    }
+
+
+
+
 }

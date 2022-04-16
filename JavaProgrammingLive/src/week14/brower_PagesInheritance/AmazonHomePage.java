@@ -17,4 +17,11 @@ public class AmazonHomePage extends Browser{
         this.product=product;  // instead of initializing in the constructor I can do it in this method as well
         System.out.println("Navigating to "+this.product+" 's Page");
     }
+
+    @Override
+    public String toString() {
+        return "AmazonHomePage{" +
+                "product='" + product + '\'' +
+                '}';
+    }
 }
