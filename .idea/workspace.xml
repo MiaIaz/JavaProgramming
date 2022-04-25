@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59f9beb4-b834-477f-8390-5a0f4580c567" name="Changes" comment="day43">
+      <change afterPath="$PROJECT_DIR$/JavaProgramming/src/day43_Abstraction/car/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +64,7 @@
   </component>
   <component name="ProjectViewState">
     <option name="foldersAlwaysOnTop" value="false" />
+    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -70,7 +72,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/JavaProgramming" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
@@ -265,7 +267,7 @@
       <workItem from="1650571612791" duration="524000" />
       <workItem from="1650572398785" duration="362000" />
       <workItem from="1650737592752" duration="57000" />
-      <workItem from="1650788939893" duration="2111000" />
+      <workItem from="1650788939893" duration="4109000" />
     </task>
     <task id="LOCAL-00001" summary="work 2 is done">
       <created>1648762613150</created>
@@ -582,7 +584,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650790137325</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="day43">
+      <created>1650850764215</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1650850764215</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
